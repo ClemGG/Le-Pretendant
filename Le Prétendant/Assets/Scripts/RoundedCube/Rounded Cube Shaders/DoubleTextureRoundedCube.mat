@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DoubleTextureRoundedCube
+  m_Shader: {fileID: 4800000, guid: 1c2988a12ead4a141bab21b64ecf4f22, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_238DD868:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8892B502:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D5EF5875:
+        m_Texture: {fileID: 2800000, guid: 97d1b6a6fa2468f45bd739448cb5e48a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F794C489:
+        m_Texture: {fileID: 2800000, guid: 074c7cb615ef2874d9bbc0792f4e3b81, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_209D3A9D: 0.5
+    - Vector1_52E42905: 1
+    - Vector1_93D5B093: 10
+    - Vector1_A7136F8E: 0
+    - Vector1_AFE1C497: 1
+    - Vector1_B68BEE44: 0
+    - Vector1_C61415FC: 0
+    - Vector1_CB340C20: 1
+    - Vector1_E31C58C3: 1
+    - Vector1_F9A611FD: 10
+    - Vector1_F9BC7C9: 1
+    - Vector1_FC3C43F6: 0
+    m_Colors:
+    - Vector2_27ED5F6: {r: 3, g: 300, b: 1, a: 0}
+    - Vector2_3681FFA7: {r: 3, g: 300, b: 1, a: 0}
+    - Vector3_86EF5FF1: {r: 0, g: 1, b: 0, a: 0}
